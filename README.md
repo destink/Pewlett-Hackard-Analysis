@@ -8,6 +8,7 @@ From preliminary analysis Pewlett Packard is anticipating that a "silver tsunami
 ![](Resources/Retirees%20by%20Title.png)
 * The top two departments that have the most amount of Senior Engineers retiring are from Development and Production departments of 6834 and 5924, respectively.
 * The two titles that have the most mentorship eligibility are Senior Engineer and Staff with about 500 eligible employees each. 
+*![](Resources/Mentorship%20Eligibility.png)
 * On average the amount of mentorship eligible employees by job title compared to the number of retirees per job title is approximately 2% with the exception of Staff at 7.5% and Senior Staff at less than 1%. Comparing these number to industry standards would be another analysis that PW could perform.
 There is a bulleted list with four major points from the two analysis deliverables. 
 ## Summary
