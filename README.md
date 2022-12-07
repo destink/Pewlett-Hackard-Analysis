@@ -17,7 +17,7 @@ From analyzing the charts, it looks as though the Senior Engineer, Engineer and 
 Another query and table that were created break down the retiring employees by department which allows PW to focus on which departments need the most assistance in filling future vacant positions. Below are the query and the results of table created. 
 ![](Resources/employee_retirement_department_query.png)
 
-# List of Retiring Employees by Department
+## List of Retiring Employees by Department
 ![](Resources/employee_retirement_department_title.png)
 
 In summary it seems that Pewlett Hackard is going to have significantly more employees retiring than are eligible for mentorships or promotions to fill the vacant positions. An analysis on how many positions per department is in order to be able to develop a plan for employee recruitment or further training.
