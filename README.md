@@ -15,7 +15,7 @@ There is a bulleted list with four major points from the two analysis deliverabl
 From analyzing the charts, it looks as though the Senior Engineer, Engineer and Technique Leader positions are about equal in the ratio of retirees to mentorship eligible employees. Staff employees have the most eligible employees which could provide opportunity for PW to invest and train the current Staff members to be promoted to Senior staff, incentivizing the current Staff employees with the possibility of promotion.
 
 Another query and table that were created break down the retiring employees by department which allows PW to focus on which departments need the most assistance in filling future vacant positions. Below are the query and the results of table created. 
-
+[](Resources/employee_retirement_department_query.png)
 In summary it seems that Pewlett Hackard is going to have significantly more employees retiring than are eligible for mentorships or promotions to fill the vacant positions. An analysis on how many positions per department is in order to be able to develop a plan for employee recruitment or further training.
 
 
