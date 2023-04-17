@@ -1,4 +1,4 @@
-# Pewlett_Hackard_Analysis
+# Pewlett-Hackard-Analysis
 
 ## Overview
 From preliminary analysis Pewlett Packard is anticipating that a "silver tsunami" is coming and that many employees for the company will soon be retiring. The first objective of the analysis is to determine the number of employees that will be retiring by job title. The second component is to determine which employees are eligible to participate in the employee mentorship program to invest in their professional growth and development and support employee retention for the company to prepare for the large number of retirees.
